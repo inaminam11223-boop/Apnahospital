@@ -1,0 +1,5 @@
+{
+  "name": "APNA HOSPITAL",
+  "description": "A complete telemedicine and digital healthcare platform connecting patients, doctors, and pharmacies.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
